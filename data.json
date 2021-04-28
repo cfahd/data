@@ -1,7 +1,7 @@
 {
    "DGRGItems":[
       {
-        "ItemName":"Surah An-Nas",
+        "ItemName":"An-Nas",
         "ItemNumber": "114",
         "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nQul a'oozu birabbin naas\r\nMalikin naas\r\nIlaahin naas\r\nMin sharril waswaasil khannaas\r\nAllazee yuwaswisu fee sudoorin naas\r\nMinal jinnati wannaas (End Juz 30)",
         "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSay: I seek refuge with the Lord and Cherisher of Mankind,\r\nThe King (or Ruler) of Mankind,\r\nThe god (or judge) of Mankind,-\r\nFrom the mischief of the Whisperer (of Evil), who withdraws (after his whisper)\r\n(The same) who whispers into the hearts of Mankind,-\r\nAmong Jinns and among men.",
@@ -12,7 +12,7 @@
         "ItemSound": "114.mp3"
       },
       {
-        "ItemName":"Surah Al-Falaq",
+        "ItemName":"Al-Falaq",
         "ItemNumber": "113",
         "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nQul a'oozu bi rabbil-falaq\r\nMin sharri maa khalaq\r\nWa min sharri ghaasiqin izaa waqab\r\nWa min sharrin-naffaa-saati fil 'uqad\r\nWa min sharri haasidin izaa hasad",
         "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSay: I seek refuge with the Lord of the Dawn\r\nFrom the mischief of created things;\r\nFrom the mischief of Darkness as it overspreads;\r\nFrom the mischief of those who practise secret arts;\r\nAnd from the mischief of the envious one as he practises envy.",
@@ -22,8 +22,105 @@
         "ItemSite": "https://quran.com/chapter_info/113",
         "ItemSound": "113.mp3"
       },
-
-     
+      {
+        "ItemName":"Al-Ikhlas",
+        "ItemNumber": "112",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \r\nQul huwal laahu ahad\r\nAllah hus-samad\r\nLam yalid wa lam yoolad\r\nWa lam yakul-lahoo kufuwan ahad",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSay: He is Allah, the One and Only;\r\nAllah, the Eternal, Absolute;\r\nHe begetteth not, nor is He begotten;\r\nAnd there is none like unto Him.",
+        "ItemDuration":"0:22",
+        "ItemImage":"112.png",
+        "ItemDifficulty":"Easy",
+        "ItemSite": "https://quran.com/chapter_info/112",
+        "ItemSound": "112.mp3"
+      },
+      {
+        "ItemName":"Al-Masad",
+        "ItemNumber": "111",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nTabbat yadaa abee Lahabinw-wa tabb\r\nMaa aghnaa 'anhu maaluhoo wa ma kasab\r\nSa-yaslaa naaran zaata lahab\r\nWamra-atuhoo hammaa latal-hatab\r\nFee jeedihaa hablum mim-masad",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nPerish the hands of the Father of Flame! Perish he!\r\nNo profit to him from all his wealth, and all his gains!\r\nBurnt soon will he be in a Fire of Blazing Flame!\r\nHis wife shall carry the (crackling) wood - As fuel!-\r\nA twisted rope of palm-leaf fibre round her (own) neck!",
+        "ItemDuration":"0:42",
+        "ItemImage":"111.png",
+        "ItemDifficulty":"Hard",
+        "ItemSite": "https://quran.com/chapter_info/111",
+        "ItemSound": "111.mp3"
+      },
+      {
+        "ItemName":"An-Nasr",
+        "ItemNumber": "110",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nIza jaaa'a nasrul-laahi walfath\r\nWa ra-aitan naasa yadkhuloona fee deenil laahi afwajaa\r\nFasabbih bihamdi rabbika wastaghfirh, innahoo kaana tawwaaba",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nWhen comes the Help of Allah, and Victory,\r\nAnd thou dost see the people enter Allah\u00B4s Religion in crowds,\r\nCelebrate the praises of thy Lord, and pray for His Forgiveness: For He is Oft-Returning (in Grace and Mercy).",
+        "ItemDuration":"0:35",
+        "ItemImage":"110.png",
+        "ItemDifficulty":"Moderate",
+        "ItemSite": "https://quran.com/chapter_info/110",
+        "ItemSound": "110.mp3"
+      },
+      {
+        "ItemName":"Al-Kafirun",
+        "ItemNumber": "109",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nQul yaaa-ayyuhal kaafiroon\r\nLaaa a'budu maa t'abudoon\r\nWa laaa antum 'aabidoona maaa a'bud\r\nWa laaa ana 'abidum maa 'abattum\r\nWa laaa antum 'aabidoona maaa a'bud\r\nLakum deenukum wa liya deen.",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSay : O ye that reject Faith!\r\nI worship not that which ye worship,\r\nNor will ye worship that which I worship.\r\nAnd I will not worship that which ye have been wont to worship,\r\nNor will ye worship that which I worship.\r\nTo you be your Way, and to me mine.",
+        "ItemDuration":"0:54",
+        "ItemImage":"109.png",
+        "ItemDifficulty":"Hard",
+        "ItemSite": "https://quran.com/chapter_info/109",
+        "ItemSound": "109.mp3"
+      },
+      {
+        "ItemName":"Al-Kauthar",
+        "ItemNumber": "108",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nInnaaa a'tainaa kal kauthar\r\nFasalli li rabbika wanhar\r\nInna shaani'aka huwal abtar",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nTo thee have We granted the Fount (of Abundance).\r\nTherefore to thy Lord turn in Prayer and Sacrifice.\r\nFor he who hateth thee, he will be cut off (from Future Hope).",
+        "ItemDuration":"0:25",
+        "ItemImage":"108.png",
+        "ItemDifficulty":"Easy",
+        "ItemSite": "https://quran.com/chapter_info/108",
+        "ItemSound": "108.mp3"
+      },
+      {
+        "ItemName":"Al-Ma'un",
+        "ItemNumber": "107",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nAra 'aytal lazee yukazzibu biddeen\r\nFazaalikal lazee yadu'ul-yateem\r\nWa la yahuddu 'alaa ta'aamil miskeen\r\nFa wailul-lil musalleen\r\nAllazeena hum 'an salaatihim saahoon\r\nAllazeena hum yuraaa'oon\r\nWa yamna'oonal maa'oon",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSeest thou one who denies the Judgment (to come)?\r\nThen such is the (man) who repulses the orphan (with harshness),\r\nAnd encourages not the feeding of the indigent.\r\nSo woe to the worshippers\r\nWho are neglectful of their prayers,\r\nThose who (want but) to be seen (of men),\r\nBut refuse (to supply) (even) neighbourly needs.",
+        "ItemDuration":"0:58",
+        "ItemImage":"107.png",
+        "ItemDifficulty":"Hard",
+        "ItemSite": "https://quran.com/chapter_info/107",
+        "ItemSound": "107.mp3"
+      },
+      {
+        "ItemName":"Quraish",
+        "ItemNumber": "106",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nLi-eelaafi quraish\r\nEelaafihim rihlatash shitaaa'i wassaif\r\nFaly'abudoo rabba haazal-bait\r\nAllazeee at'amahum min joo'inw-wa-aamanahum min khawf",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nFor the covenants (of security and safeguard enjoyed) by the Quraish,\r\nTheir covenants (covering) journeys by winter and summer,-\r\nLet them adore the Lord of this House,\r\nWho provides them with food against hunger, and with security against fear (of danger).",
+        "ItemDuration":"0:43",
+        "ItemImage":"106.png",
+        "ItemDifficulty":"Moderate",
+        "ItemSite": "https://quran.com/chapter_info/106",
+        "ItemSound": "106.mp3"
+      },
+      {
+        "ItemName":"Al-Fil",
+        "ItemNumber": "105",
+        "ItemTranslation1":"Bismillaahir Rahmaanir Raheem \uFEFF\r\nAlam tara kaifa fa'ala rabbuka bi ashaabil feel\r\nAlam yaj'al kaidahum fee tadleel\r\nWa arsala 'alaihim tairan abaabeel\r\nTarmeehim bihijaaratim min sijjeel\r\nFaja 'alahum ka'asfim m'akool",
+        "ItemTranslation2":"In the name of Allah, Most Gracious, Most Merciful.\r\nSeest thou not how thy Lord dealt with the Companions of the Elephant?\r\nDid He not make their treacherous plan go astray?\r\nAnd He sent against them Flights of Birds,\r\nStriking them with stones of baked clay.\r\nThen did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.",
+        "ItemDuration":"0:49",
+        "ItemImage":"105.png",
+        "ItemDifficulty":"Moderate",
+        "ItemSite": "https://quran.com/chapter_info/105",
+        "ItemSound": "105.mp3"
+      },
+      {
+        "ItemName":"Al-Humazah",
+        "ItemNumber": "104",
+        "ItemTranslation1":"In the name of Allah, Most Gracious, Most Merciful.\r\nWoe to every (kind of) scandal-monger and-backbiter,\r\nWho pileth up wealth and layeth it by,\r\nThinking that his wealth would make him last for ever!\r\nBy no means! He will be sure to be thrown into That which Breaks to Pieces,\r\nAnd what will explain to thee That which Breaks to Pieces?\r\n(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),\r\nThe which doth mount (Right) to the Hearts:\r\nIt shall be made into a vault over them,\r\nIn columns outstretched.",
+        "ItemTranslation2":"",
+        "ItemDuration":"0:46",
+        "ItemImage":"104.png",
+        "ItemDifficulty":"Moderate",
+        "ItemSite": "https://quran.com/chapter_info/104",
+        "ItemSound": "104.mp3"
+      }
    ],
    "Status":"OK"
 }
